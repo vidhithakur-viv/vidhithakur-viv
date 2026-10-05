@@ -156,23 +156,6 @@ rather than treating libraries as black boxes.
 
 ---
 
-# 🏆 Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GSSoC%202025-Global%20Rank%2092-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/60%2B-Merged%20PRs-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flipkart%20GRiD-Semi%20Finalist-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hackathon-Top%205-4F46E5?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Design%20Patent-Granted-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NPTEL-Elite%20%2B%20Top%205%25-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/200%2B-DSA%20Problems-7C3AED?style=for-the-badge"/>
-
-</div>
-
 ---
 
 # 📊 GitHub Activity
