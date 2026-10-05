@@ -1,11 +1,26 @@
 <div align="center">
 
-# Hi, I'm Vidhi Thakur 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=220&section=header&text=VIDHI%20THAKUR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20systems%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=60&descSize=18"/>
 
-### Building intelligent systems that turn ideas into real-world solutions.
+<br>
 
-Computer Science student exploring Artificial Intelligence, Machine Learning,
-and software engineering through hands-on projects and experimentation.
+<a href="https://github.com/vidhithakur-viv">
+<img src="https://img.shields.io/github/followers/vidhithakur-viv?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+</a>
+
+<a href="https://github.com/vidhithakur-viv?tab=repositories">
+<img src="https://img.shields.io/github/stars/vidhithakur-viv?style=for-the-badge&logo=github&label=STARS"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `Turning ideas into intelligent systems.`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Systems;Creating+Practical+Software;Learning+Something+New+Every+Day"/>
 
 </div>
 
@@ -13,142 +28,191 @@ and software engineering through hands-on projects and experimentation.
 
 ## 🧠 About Me
 
-I'm a Computer Science (AI/ML) student who enjoys understanding how things
-work and then building them from scratch.
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhithakur-viv&layout=compact&hide_border=true&theme=transparent"/>
 
-My interests lie in developing intelligent applications, working with data,
-and turning ideas into practical software.
+I'm a **Computer Science (AI/ML) student** who enjoys going beyond
+using tools and understanding how things work underneath.
 
-Currently, I'm focused on strengthening my fundamentals, building meaningful
-projects, and exploring new areas of AI and software development.
+I like building projects that combine **data, intelligence and software** —
+from machine learning systems to APIs and full-stack applications.
 
----
+Currently exploring deeper into **AI, machine learning, intelligent
+applications and software engineering.**
 
-## 🔭 What I'm Exploring
-
-- 🤖 Machine Learning & Intelligent Systems
-- 🧠 Deep Learning & Computer Vision
-- ⚙️ AI-powered applications
-- 🌐 Building practical software systems
-- 📊 Data-driven problem solving
-- ☁️ Cloud & modern development tools
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technology Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-<p>
-  Scikit-learn • NumPy • Pandas • Computer Vision • NLP
-</p>
-
-### Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,express,html,css" />
-</p>
-
-<p>
-  REST APIs • API Development
-</p>
-
-### Data & Geospatial
-
-<p>
-  MongoDB • SQL • GeoPandas • OSMnx
-</p>
-
-### Cloud & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-</p>
-
-<p>
-  Postman • Jupyter Notebook • VS Code
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ⚡ ChargeWise AI
-
-An AI-powered platform for identifying optimal locations for EV charging
-stations using geospatial and road-network analysis.
-
-**Built with:** Python • FastAPI • React • Leaflet • GeoPandas • OSMnx
-
-- Processed 18,000+ points of interest
-- Analyzed 155,000+ road-network nodes
-- Built REST APIs for infrastructure analysis
-- Developed visualization for charging deserts, competitors and ROI
-
----
-
-### 🧠 Deep Learning Framework From Scratch
-
-A deep learning framework built from scratch without relying on PyTorch,
-TensorFlow, or automatic differentiation.
-
-**Built with:** Python • NumPy
-
-- Implemented manual backpropagation
-- Implemented Batch Normalization and Dropout
-- Implemented SGD with Momentum and Adam
-- Added finite-difference gradient checking
-- Achieved 98.3% test accuracy on MNIST
-
----
-
-### 🛒 Hybrid Cart Super Add-On Recommendation System
-
-A recommendation engine designed to generate context-aware product
-recommendations from cart data.
-
-**Built with:** Python • FastAPI • Pandas • NumPy
-
-- Combined association analysis and profit-based ranking
-- Added contextual product boosts
-- Implemented frequently-bought-together recommendations
-- Built a REST API for real-time top-3 recommendations
-
----
-
-## 💼 Experience
-
-### Summer Intern — Tata Steel
-**May 2026 – July 2026**
-
-Worked on a real-time iron ore pellet supply visibility system focused on
-supply-chain monitoring, operational data analysis, and inventory tracking.
-
----
-
-## 📊 GitHub
+# ⚡ Technology Ecosystem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vidhithakur-viv&show_icons=true&hide_border=true&count_private=true" />
+### 💻 Languages
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhithakur-viv&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql"/>
+
+<br><br>
+
+### 🧠 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+
+<br>
+
+`Scikit-learn` • `Computer Vision` • `NLP` • `Deep Learning`
+
+<br><br>
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,express,html,css"/>
+
+<br>
+
+`REST APIs` • `API Development`
+
+<br><br>
+
+### ☁️ Cloud • Data • Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,git,github,linux"/>
+
+<br>
+
+`NumPy` • `Pandas` • `GeoPandas` • `OSMnx` • `Postman`
 
 </div>
 
 ---
 
-## 🌱 Currently
+# 🚀 Things I've Built
 
-```text
-Learning → Building → Breaking → Debugging → Improving
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### ⚡ ChargeWise AI
+
+AI-powered EV charging infrastructure analysis using
+geospatial and road-network data.
+
+**Python • FastAPI • React • GeoPandas • OSMnx**
+
+`18K+ POIs`  
+`155K+ road nodes`
+
+</td>
+
+<td width="50%">
+
+### 🧠 Deep Learning From Scratch
+
+A neural-network framework built without
+PyTorch, TensorFlow or autograd.
+
+**Python • NumPy**
+
+`Backpropagation`  
+`BatchNorm • Dropout • Adam`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 Recommendation Engine
+
+Context-aware cart recommendations designed
+to improve product discovery and AOV.
+
+**Python • FastAPI • Pandas • NumPy**
+
+`Real-time API`  
+`Top-3 recommendations`
+
+</td>
+
+<td width="50%">
+
+### 🔬 Learning By Building
+
+I enjoy implementing concepts from scratch
+rather than treating libraries as black boxes.
+
+**Understand → Build → Experiment → Improve**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🏆 Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GSSoC%202025-Global%20Rank%2092-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/60%2B-Merged%20PRs-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flipkart%20GRiD-Semi%20Finalist-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathon-Top%205-4F46E5?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Design%20Patent-Granted-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Elite%20%2B%20Top%205%25-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/200%2B-DSA%20Problems-7C3AED?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vidhithakur-viv&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhithakur-viv&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidhithakur-viv&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+`Artificial Intelligence`   `Machine Learning`   `Deep Learning`
+
+`Intelligent Applications`   `Software Engineering`   `Cloud`
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦ Build something. Break something. Understand something. ✦
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer"/>
+
+</div>
